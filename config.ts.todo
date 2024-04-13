@@ -1,0 +1,7 @@
+export const Token: string = '#DISCORD TOKEN';
+export const Prefix: string = '!';
+export const OwnerId: string = '#YOUR DISCORD ID';
+export const OwnerAvatar: string = '#AVATAR URL';
+export const dbName : string = '#DBNAME';
+export const gapiKey: string = '#GOOGLE API KEY';
+export const geniusKey: string = '#GENIUS API KEY';
